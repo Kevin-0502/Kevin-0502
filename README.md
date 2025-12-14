@@ -3,9 +3,9 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **Development Full-Stack**
+
+ I’m  **Developder Full-Stack**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -23,11 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-0502&show_icons=true&theme=dark&locale=en&layout=compact" alt="Kevin-0502" /></p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kevin-0502&show_icons=true&theme=dark&locale=en" alt="Kevin-0502" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-0502&theme=dark" alt="Kevin-0502" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
